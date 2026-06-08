@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Dusty Zhu 👋
 
-<!--
-**dustyzhu/dustyzhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at UNSW, currently learning C, Git, and software development.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Bachelor of Computer Science student at UNSW
+- 💻 Currently learning C programming and Git/GitHub
+- 🚀 Building small projects to improve my coding skills
+- 🌏 Based in Sydney, Australia
+
+## Current focus
+
+- C programming
+- Data structures
+- Problem solving
+- Software development fundamentals
+
+## Projects
+
+- [CS Karting](https://github.com/dustyzhu/cs_karting) — A C program for COMP1511 Assignment 2 that manages a kart racing series using linked lists.
+
+## Tools
+
+C · Git · GitHub · VS Code · macOS
